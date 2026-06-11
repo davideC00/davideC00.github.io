@@ -2,6 +2,15 @@
 layout: homepage
 ---
 
+I am a Ph.D. student at the University of Bari Aldo Moro, working on interpretable AI methods for value-based procurement.
+
+In particular, I am working on Bayesian methods for criteria selection, the development of a new clustering method called Probabilistic Fuzzy C-Means, methods for the estimation of causal effects, and uncertainty management techniques for procurement tasks.
+
+Prior to my Ph.D., I obtained a Bachelor’s degree in Computer Science and a Master’s degree in Data Science.
+
+In my free time, I enjoy playing board games, doing sports, and watching TV series.
+
+
 ## Research Interest
 
 - **Machine Learning:** Explainability, Uncertainty
@@ -18,6 +27,7 @@ layout: homepage
 - **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 -->
 
+<!---
 ## Publications
 
 - **Uncertainty Estimation of Raters’ Performance and Ground Truth Through a Bayesian Extension of STAPLE**
@@ -27,6 +37,7 @@ layout: homepage
   Database and Expert Systems Applications (DEXA 2024) - Workshop on Certainty in Uncertainty: Exploring Probabilistic Approaches in AI (CIU 2024).
   <br>
   [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-68302-2_8)] [[Code](https://github.com/davideC00/Bayesian-STAPLE)] <!--- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+-->
 
 <!---
 ## Recent Talks
