@@ -36,7 +36,7 @@ In my free time, I enjoy playing board games, doing sports, and watching TV seri
   <br>
   Database and Expert Systems Applications (DEXA 2024) - Workshop on Certainty in Uncertainty: Exploring Probabilistic Approaches in AI (CIU 2024).
   <br>
-  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-68302-2_8)] [[Code](https://github.com/davideC00/Bayesian-STAPLE)] <!--- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-68302-2_8)] [[Code](https://github.com/davideC00/Bayesian-STAPLE)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> 
 -->
 
 <!---
