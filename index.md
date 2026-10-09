@@ -2,18 +2,18 @@
 layout: homepage
 ---
 
-I am a Ph.D. student at the University of Bari Aldo Moro, working on interpretable AI methods for value-based procurement.
+I am a Ph.D. student at the University of Bari Aldo Moro, working on uncertainty-aware and interpretable AI methods applied to value-based procurement.
 
-In particular, I am working on Bayesian methods for criteria selection, the development of a new clustering method called Probabilistic Fuzzy C-Means, methods for the estimation of causal effects, and uncertainty management techniques for procurement tasks.
+In particular, I have developed a bayesian method for criteria selection and a new clustering method called ProbFCM. Furthemore, I have collaborated for the development of a ranking methodology for the ranking of hospitals according to their performance.
+For a complete list of the papers, check [my google scholar page](https://scholar.google.com/citations?user=k-pyJ-sAAAAJ&hl)
 
-Prior to my Ph.D., I obtained a Bachelor’s degree in Computer Science and a Master’s degree in Data Science.
+<!--- Prior to my Ph.D., I obtained a Bachelor’s degree in Computer Science and a Master’s degree in Data Science. -->
 
-In my free time, I enjoy playing board games, doing sports, and watching TV series.
-
+Apart from my Ph.D., in my free time I enjoy going to the gym, reading, and watching films.
 
 ## Research Interest
 
-- **Machine Learning:** Explainability, Uncertainty
+- **Machine Learning:** Uncertainty, Explainability
 - **AI applied for Procurement**
 - **Probabilistic Models**
 
