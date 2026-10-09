@@ -5,7 +5,7 @@ layout: homepage
 I am a Ph.D. student at the University of Bari Aldo Moro, working on uncertainty-aware and interpretable AI methods applied to value-based procurement.
 
 In particular, I have developed a bayesian method for criteria selection and a new clustering method called ProbFCM. Furthemore, I have collaborated for the development of a ranking methodology for the ranking of hospitals according to their performance.
-For a complete list of the papers, check [my google scholar page](https://scholar.google.com/citations?user=k-pyJ-sAAAAJ&hl)
+For a complete list of the papers, check [my google scholar page](https://scholar.google.com/citations?user=k-pyJ-sAAAAJ&hl).
 
 <!--- Prior to my Ph.D., I obtained a Bachelor’s degree in Computer Science and a Master’s degree in Data Science. -->
 
